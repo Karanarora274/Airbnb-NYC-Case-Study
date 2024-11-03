@@ -59,7 +59,7 @@ The analysis generated key insights, including:
 
 - [**Tableau Airbnb Dashboard**](https://public.tableau.com/app/profile/karan.arora8884/viz/Airbnb_17306092063920/Dashboard1?publish=yes) - Tableau dashboard summarizing the case study with visualisations.
 
-![Content cannot be displayed for some reason](https://github.com/Karanarora274/Airbnb-NYC-Case-Study/blob/main/temp/Screenshot%202024-11-03%20at%2010.45.51.png)
+[![Content cannot be displayed for some reason](https://github.com/Karanarora274/Airbnb-NYC-Case-Study/blob/main/temp/Screenshot%202024-11-03%20at%2010.45.51.png)](https://public.tableau.com/app/profile/karan.arora8884/viz/Airbnb_17306092063920/Dashboard1?publish=yes)
 
 ## Conclusion
 
